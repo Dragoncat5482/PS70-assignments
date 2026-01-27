@@ -30,8 +30,10 @@ nav {
 
 .navbar-nav {
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-end;
   gap: 30px;
+  flex-grow: 1;
+  padding: 0px 20px;
 }
 
 .nav-title{
@@ -81,6 +83,7 @@ nav {
 .flexrow {
   display: flex;
   justify-content: space-evenly;
+  flex-grow: 1;
 }
 
 .center-row {
