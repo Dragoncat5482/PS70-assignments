@@ -1,0 +1,16 @@
+{
+  "/01_intro/page": "app/01_intro/page.js",
+  "/02_2Ddesign/page": "app/02_2Ddesign/page.js",
+  "/03_fabrication/page": "app/03_fabrication/page.js",
+  "/04_microcontroller/page": "app/04_microcontroller/page.js",
+  "/05_3Ddesign/page": "app/05_3Ddesign/page.js",
+  "/06_inputs/page": "app/06_inputs/page.js",
+  "/07_outputs/page": "app/07_outputs/page.js",
+  "/08_cnc/page": "app/08_cnc/page.js",
+  "/09_networking/page": "app/09_networking/page.js",
+  "/10_machine/page": "app/10_machine/page.js",
+  "/13_finalproject/page": "app/13_finalproject/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Alice/OneDrive/Documents/GitHub/PS70-assignments/ps70/app/09_networking/page.tsx"],"sourcesContent":["export default function Networking09() {\r\n    return (\r\n        <div className=\"textcontainer\">\r\n            <p className=\"margin\"> </p>\r\n            <h3>Week 9: Radio, WiFi, Bluetooth (IoT)</h3>\r\n            <p className=\"margin\"> </p>\r\n            <div className=\"flexrow\">\r\n                <a id=\"btn\" href=\"wk9.zip\" download>Download my files from this week!\r\n                </a>\r\n            </div>\r\n            <p className=\"margin\"> </p>\r\n            <h4>Assignment: [Program something with IOT]</h4>\r\n        </div>\r\n\r\n    )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,8OAAC;QAAI,WAAU;;0BACX,8OAAC;gBAAE,WAAU;0BAAS;;;;;;0BACtB,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;gBAAE,WAAU;0BAAS;;;;;;0BACtB,8OAAC;gBAAI,WAAU;0BACX,cAAA,8OAAC;oBAAE,IAAG;oBAAM,MAAK;oBAAU,QAAQ;8BAAC;;;;;;;;;;;0BAGxC,8OAAC;gBAAE,WAAU;0BAAS;;;;;;0BACtB,8OAAC;0BAAG;;;;;;;;;;;;AAIhB"}}]
+}

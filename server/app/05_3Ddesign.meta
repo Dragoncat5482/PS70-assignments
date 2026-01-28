@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/05_3Ddesign/layout,_N_T_/05_3Ddesign/page,_N_T_/05_3Ddesign"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/05_3Ddesign/__PAGE__",
+    "/05_3Ddesign",
+    "/_index",
+    "/_head"
+  ]
+}

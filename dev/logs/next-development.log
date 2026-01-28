@@ -1,0 +1,410 @@
+[00:00:09.576] Server  LOG     ✓ Ready in 6.9s
+[00:00:32.566] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:32.673] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:41.853] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:55.213] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:28.254] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:50.105] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:26.350] Server  LOG     ✓ Compiled in 51ms
+[00:08:35.621] Server  LOG     ✓ Compiled in 223ms
+[00:08:42.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:58.238] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:59.557] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:00.453] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:32.248] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:39.072] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:40.745] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:41.671] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:49.042] Server  LOG     ✓ Compiled in 25ms
+[00:15:52.814] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:55.536] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:03.462] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:08.271] Server  LOG     ✓ Compiled in 23ms
+[00:16:10.665] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:15.352] Server  LOG     ✓ Compiled in 6ms
+[00:20:57.713] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:35.974] Browser ERROR   uncaughtError: Error: The `style` prop expects a mapping from style properties to values, not a string. For example, style={{marginRight: spacing + 'em'}} when using JSX.
+[00:21:58.899] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:59.161] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <RenderFromTemplateContext>
+      <ScrollAndFocusHandler segmentPath={[...]}>
+        <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:false, ...}}>
+          <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+            <LoadingBoundary name="/" loading={null}>
+              <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+                <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+                  <RedirectBoundary>
+                    <RedirectErrorBoundary router={{...}}>
+                      <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                        <SegmentViewNode type="page" pagePath="page.tsx">
+                          <SegmentTrieNode>
+                          <Home>
++                           <div className="container-fluid bg-3 text-center">
+-                           {"<div class=\"container-fluid bg-3 text-center\"><div class=\"row\"><div class=\"col-sm..."}
+                        ...
+                      ...
+          ...
+    ...
+
+[00:25:55.704] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:52.234] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:52.410] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:54.297] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:54.452] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:54.641] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:54.796] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:54.996] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:55.153] Server  ERROR   ⨯ Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:28:55.289] Browser ERROR   uncaughtError: Error: Failed to load external module https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css: Error: Cannot find module 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css'
+Require stack:
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[root-of-the-server]__31c4daa8._.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\chunks\ssr\[turbopack]_runtime.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\.next\dev\server\app\page.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\require.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\load-components.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\utils.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\options.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\swc\index.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\config.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\next.js
+- C:\Users\Alice\OneDrive\Documents\GitHub\PS70-assignments\ps70\node_modules\next\dist\server\lib\start-server.js
+[00:30:05.000] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:07.486] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:19.836] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.839] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.841] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.844] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.847] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.849] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.851] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.853] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:19.876] Server  LOG     ✓ Compiled in 24ms
+[00:30:20.477] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:30:27.142] Server  ERROR   ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:27.976] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:30:28.271] Browser ERROR   uncaughtError: Error: ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:30:28.465] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:30:28.465] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './style.css'
+  1 | import Image from "next/image";
+  2 | import Link from "next/link";
+> 3 | import "./style.css";
+    | ^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function Home() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:30:36.968] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:56.996] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:00.401] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:50.814] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:57.483] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:58.942] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:00.043] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:54.998] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:15.687] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:17.295] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:19.685] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:37.346] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:00.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:04.130] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:19.658] Server  ERROR   ⨯ Error: The default export is not a React Component in "/06_inputs/page"
+[01:00:19.873] Server  ERROR   ⨯ Error: The default export is not a React Component in "/06_inputs/page"
+[01:00:20.183] Server  ERROR   ⨯ Error: The default export is not a React Component in "/06_inputs/page"
+[01:00:20.371] Server  ERROR   ⨯ Error: The default export is not a React Component in "/06_inputs/page"
+[01:00:20.543] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/06_inputs/page"
+[01:00:23.903] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:05.253] Server  LOG     ✓ Compiled in 25ms
+[01:05:48.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:17.907] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:19.452] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:20.133] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:21.129] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

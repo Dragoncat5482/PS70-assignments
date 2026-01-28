@@ -1,0 +1,18 @@
+{
+  "/01_intro/page": "/01_intro",
+  "/02_2Ddesign/page": "/02_2Ddesign",
+  "/03_fabrication/page": "/03_fabrication",
+  "/04_microcontroller/page": "/04_microcontroller",
+  "/05_3Ddesign/page": "/05_3Ddesign",
+  "/06_inputs/page": "/06_inputs",
+  "/07_outputs/page": "/07_outputs",
+  "/08_cnc/page": "/08_cnc",
+  "/09_networking/page": "/09_networking",
+  "/10_machine/page": "/10_machine",
+  "/13_finalproject/page": "/13_finalproject",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}

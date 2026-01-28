@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/08_cnc/layout,_N_T_/08_cnc/page,_N_T_/08_cnc"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/08_cnc/__PAGE__",
+    "/08_cnc",
+    "/_index",
+    "/_head"
+  ]
+}
