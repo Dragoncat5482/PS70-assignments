@@ -3,4 +3,4 @@
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css","style"]
 :HL["./style.css","style"]
-0:{"buildId":"A12tmbZyo1VqCB-2ixuAx","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"04_microcontroller","paramType":null,"paramKey":"04_microcontroller","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"6GNYLyCW0hIHNYTRoW0vk","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"04_microcontroller","paramType":null,"paramKey":"04_microcontroller","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
