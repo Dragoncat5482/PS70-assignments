@@ -14,4 +14,4 @@
 :HL["./09_networking/week9-placeholder-image.jpg","image"]
 :HL["./10_machine/machine-placeholder-image.jpg","image"]
 :HL["./13_finalproject/final-project-placeholder-image.jpg","image"]
-0:{"buildId":"1piHs0h-mOBb5Y0aBboGc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"A12tmbZyo1VqCB-2ixuAx","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
