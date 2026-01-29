@@ -6,4 +6,4 @@
 :HL["./01_intro/bird_machine.jpg","image"]
 :HL["./01_intro/hoopskirt.jpg","image"]
 :HL["./01_intro/light_painting_drawing_animals.jpg","image"]
-0:{"buildId":"9dsdJMMxQ0qnERaI82hOm","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"01_intro","paramType":null,"paramKey":"01_intro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"kL1LGeMgxH5desc1tLhdw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"01_intro","paramType":null,"paramKey":"01_intro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
