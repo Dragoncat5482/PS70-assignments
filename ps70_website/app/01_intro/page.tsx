@@ -14,7 +14,9 @@ export default function Intro01() {
             The machines would be linked up to a motor(s) which are then linked to a simple 
             microcontroller. When power is turned on the small machines would flap along the edge of the dress.
             Different flapping patterns for different sections of the dress could be achieved by programming different commands into the 
-            microcontroller. This is the idea I'm most excited about.
+            microcontroller. An even more ambitious addition would be linking up something like a 
+            model train track to the bottom of the dress so that the kinematic machines can 
+            move around the bottom. This is the idea I'm most excited about.
             <br/>
             <img style={{width: '40%'}} src="./01_intro/bird_machine.jpg" alt="Kinetic bird machine"></img>
             <img style={{width: '30%'}} src="./01_intro/hoopskirt.jpg" alt="hoopskirt"></img>
