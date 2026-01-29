@@ -3,4 +3,7 @@
 :HL["/PS70-assignments/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css","style"]
 :HL["./style.css","style"]
-0:{"buildId":"wHMRhMk5q82Ak5GZpaStZ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"01_intro","paramType":null,"paramKey":"01_intro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["./01_intro/bird_machine.jpg","image"]
+:HL["./01_intro/hoopskirt.jpg","image"]
+:HL["./01_intro/light_painting_drawing_animals.jpg","image"]
+0:{"buildId":"9dsdJMMxQ0qnERaI82hOm","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"01_intro","paramType":null,"paramKey":"01_intro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

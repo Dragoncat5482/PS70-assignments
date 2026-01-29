@@ -1,8 +1,8 @@
 body {
-    font: 20px "Gill Sans", Verdana, sans-serif;
+    font: 20px "Alice", serif;
     line-height: 1.8;
     color: #000000;
-    background-color: #dcdcdc;
+    background-color: #F5F5DC;
     padding-top: 0px !important;
   }
 
@@ -23,8 +23,8 @@ a {
 }
 
 nav {
-  background-color: #dcdcdc;
-  color: #EEE7E8;
+  background-color: #F5F5DC;
+  color: #000000;
   padding: 50px 0px;
 }
 
@@ -43,19 +43,19 @@ nav {
 }
 
 .nav-link {
-  border: 3px outset #a3a3a3;
+  border: 3px outset #A4D7E1;
   border-radius: 20px;
   padding: 10px 30px;
-  background-color: #a3a3a3;
-  color: #EEE7E8;
+  background-color: #A4D7E1;
+  color: #000000 !important;
   transition: 0.3s;
 }
 
 .nav-link:hover {
-  border: 3px outset #FFFFFF;
+  border: 3px outset #d1fdff;
   border-radius: 20px;
   padding: 10px 30px;
-  background-color: #a3a3a3;
+  background-color: #669eb8;
   transition: 0.3s;
 }
 

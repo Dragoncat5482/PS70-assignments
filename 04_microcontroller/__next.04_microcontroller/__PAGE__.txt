@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"wHMRhMk5q82Ak5GZpaStZ","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"textcontainer","children":[["$","p",null,{"className":"margin","children":" "}],["$","h3",null,{"children":"Week 4: Microcontroller Programming"}],["$","h4",null,{"children":"[Do Something with an arduino]"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"9dsdJMMxQ0qnERaI82hOm","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"textcontainer","children":[["$","p",null,{"className":"margin","children":" "}],["$","h3",null,{"children":"Week 4: Microcontroller Programming"}],["$","h4",null,{"children":"[Do Something with an arduino]"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
