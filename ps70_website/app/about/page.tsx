@@ -9,9 +9,9 @@ export default function About() {
             Hi! I'm Alice Liu, a senior at Harvard studying Computer Science and Statistics. I live in Dunster House (go Meece!). I like making things, and have gone through many crafting phases like polymer clay, knitting/crocheting, etc. Currently trying to learn how to sew as my next project. Also have an unhealthy duck obsession.
             </p>
         </div>
-        <br /><br />
-        <p>Ducky ducky ducky</p>
-        <br /><br />
+        <br />
+        <p>Ducks are cool!</p>
+        <br />
         <img src="./cute ducky!.jpg" alt="cute ducky" style={{width: 400, height: 'auto'}} />
         <br /><br />
         Maybe even add a video?

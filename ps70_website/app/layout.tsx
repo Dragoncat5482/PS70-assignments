@@ -35,7 +35,7 @@ export default function RootLayout({
       </head>
 
       <body>
-        <nav className="navbar navbar-expand-sm navbar-dark" style={{backgroundColor: '#dcdcdc', color: '#EEE7E8'}}>
+        <nav className="navbar navbar-expand-sm navbar-dark">
           <div style={{alignItems: 'center', justifyContent: 'center'}} className="container-fluid">
             <div className="flexrow">
               <h2 className="nav-title">PS70 Spring 2026</h2>
