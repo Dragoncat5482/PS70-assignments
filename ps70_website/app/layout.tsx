@@ -35,10 +35,17 @@ export default function RootLayout({
       </head>
 
       <body>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossOrigin="anonymous"></script>
+
         <nav className="navbar navbar-expand-sm navbar-dark">
           <div style={{alignItems: 'center', justifyContent: 'center'}} className="container-fluid">
             <div className="flexrow">
-              <h2 className="nav-title">PS70 Spring 2026</h2>
+              <a className="navbar-brand" href="./">
+                <h2 className="nav-title">
+                  <img src="./pixel_duck.png" alt="Pixel Duck" width="40"className="d-inline-block align-text-top"></img>
+                  PS70 Spring 2026
+                </h2>
+              </a>
             </div>
             <div className="navbar-nav">
               <h4><Link className="nav-link" href="./">Home</Link></h4>

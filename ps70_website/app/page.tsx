@@ -7,56 +7,98 @@ export default function Home() {
     <div className="container-fluid bg-3 text-center">
       <div className="row">
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./01_intro/rubber_duck.jpg" alt="week 1 placeholder" /> 
-          <br />
-          <Link href="./01_intro">Week 1: Intro</Link>
+          <div className="card">
+          <img style={{width: '80%'}} src="./01_intro/rubber_duck.jpg" alt="week 1 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./01_intro" className="card-title">Week 1: Intro</Link>
+          </div>
+          </div>
         </div>
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./02_2Ddesign/week2-placeholder-image.jpg" alt="week 2 placeholder" /> 
-          <br />
-          <Link href="./02_2Ddesign">Week 2: 2D Design</Link>
+          <div className="card">
+          <img style={{width: '75%'}} src="./02_2Ddesign/week2-placeholder-image.jpg" alt="week 2 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./02_2Ddesign" className="card-title">Week 2: 2D Design</Link>
+          </div>
+          </div>
         </div>
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./03_fabrication/week3-placeholder-image.jpg" alt="week 3 placeholder" /> 
-          <br /><Link href="./03_fabrication">Week 3: Fabrication</Link>
-        </div>
-      </div>
-      <div className="row">
-        <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./04_microcontroller/week4-placeholder-image.jpg" alt="week 4 placeholder" />  
-          <br /><Link href="./04_microcontroller">Week 4: Programming</Link>
-        </div>
-        <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./05_3Ddesign/week5-placeholder-image.jpg" alt="week 5 placeholder" /> 
-          <br /><Link href="./05_3Ddesign">Week 5: 3D Design</Link>
-        </div>
-        <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./06_inputs/week6-placeholder-image.jpg" alt="week 6 placeholder" /> 
-          <br /><Link href="./06_inputs">Week 6: Inputs</Link>
+          <div className="card">
+          <img style={{width: '75%'}} src="./03_fabrication/week3-placeholder-image.jpg" alt="week 3 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./03_fabrication" className="card-title">Week 3: Fabrication</Link>
+          </div>
+          </div>
         </div>
       </div>
       <div className="row">
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./07_outputs/week7-placeholder-image.jpg" alt="week 7 placeholder" /> 
-          <br /><Link href="./07_outputs">Week 7: Outputs</Link>
+          <div className="card">
+          <img style={{width: '75%'}} src="./04_microcontroller/week4-placeholder-image.jpg" alt="week 4 placeholder" className="card-img-top"/>  
+          <div className="card-body">
+          <Link href="./04_microcontroller" className="card-title">Week 4: Programming</Link>
+          </div>
+          </div>
         </div>
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./08_cnc/week8-placeholder-image.jpg" alt="week 8 placeholder" /> 
-          <br /><Link href="./08_cnc">Week 8: CNC</Link>
+          <div className="card">
+          <img style={{width: '75%'}} src="./05_3Ddesign/week5-placeholder-image.jpg" alt="week 5 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./05_3Ddesign" className="card-title">Week 5: 3D Design</Link>
+          </div>
+          </div>
         </div>
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./09_networking/week9-placeholder-image.jpg" alt="week 9 placeholder" /> 
-          <br /><Link href="./09_networking">Week 9: Networking</Link>
+          <div className="card">
+          <img style={{width: '75%'}} src="./06_inputs/week6-placeholder-image.jpg" alt="week 6 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./06_inputs" className="card-title">Week 6: Inputs</Link>
+          </div>
+          </div>
         </div>
       </div>
       <div className="row">
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./10_machine/machine-placeholder-image.jpg" alt="machine building placeholder" /> 
-          <br /><Link href="./10_machine">Machine Building</Link>
+          <div className="card">
+          <img style={{width: '75%'}} src="./07_outputs/week7-placeholder-image.jpg" alt="week 7 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./07_outputs" className="card-title">Week 7: Outputs</Link>
+          </div>
+          </div>
         </div>
         <div className="col-sm-4">
-          <img style={{width: '75%'}} src="./13_finalproject/final-project-placeholder-image.jpg" alt="final project placeholder" />  
-          <br /><Link href="./13_finalproject">Final Project</Link>
+          <div className="card">
+          <img style={{width: '75%'}} src="./08_cnc/week8-placeholder-image.jpg" alt="week 8 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./08_cnc" className="card-title">Week 8: CNC</Link>
+          </div>
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="card">
+          <img style={{width: '75%'}} src="./09_networking/week9-placeholder-image.jpg" alt="week 9 placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./09_networking" className="card-title">Week 9: Networking</Link>
+          </div>
+          </div>
+        </div>
+      </div>
+      <div className="row">
+        <div className="col-sm-4">
+          <div className="card">
+          <img style={{width: '75%'}} src="./10_machine/machine-placeholder-image.jpg" alt="machine building placeholder" className="card-img-top"/> 
+          <div className="card-body">
+          <Link href="./10_machine" className="card-title">Machine Building</Link>
+          </div>
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="card">
+          <img style={{width: '75%'}} src="./13_finalproject/final-project-placeholder-image.jpg" alt="final project placeholder" className="card-img-top"/>  
+          <div className="card-body">
+          <Link href="./13_finalproject" className="card-title">Final Project</Link>
+          </div>
+          </div>
         </div>
       </div>
     </div>
