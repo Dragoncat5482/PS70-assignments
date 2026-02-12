@@ -12,4 +12,16 @@
 :HL["./02_2Ddesign/duck_decoration.jpg","image"]
 :HL["./02_2Ddesign/box_duck_final.jpg","image"]
 :HL["./02_2Ddesign/box_duck_holding_demo.jpg","image"]
-0:{"buildId":"L1KUePb57VVcYgo7x6ukZ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"02_2Ddesign","paramType":null,"paramKey":"02_2Ddesign","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["./02_2Ddesign/toy_block.png","image"]
+:HL["./02_2Ddesign/toy_block_underside.png","image"]
+:HL["./02_2Ddesign/glass_bottle.png","image"]
+:HL["./02_2Ddesign/paperclip.png","image"]
+:HL["./02_2Ddesign/complex_bottle.png","image"]
+:HL["./02_2Ddesign/bottle_cap.png","image"]
+:HL["./02_2Ddesign/measurements.png","image"]
+:HL["./02_2Ddesign/seam_ripper.png","image"]
+:HL["./02_2Ddesign/seam_ripper_cap.png","image"]
+:HL["./02_2Ddesign/scissors.png","image"]
+:HL["./02_2Ddesign/scissors_blade_detail.png","image"]
+:HL["./02_2Ddesign/sewing_dish.png","image"]
+0:{"buildId":"O1EbPocSW4_GSVGA8PS72","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"02_2Ddesign","paramType":null,"paramKey":"02_2Ddesign","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

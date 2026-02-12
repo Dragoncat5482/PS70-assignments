@@ -5,7 +5,7 @@
 :HL["./style.css","style"]
 :HL["./pixel_duck.png","image"]
 :HL["./01_intro/rubber_duck.jpg","image"]
-:HL["./02_2Ddesign/week2-placeholder-image.jpg","image"]
+:HL["./02_2Ddesign/box_duck_final.jpg","image"]
 :HL["./03_fabrication/week3-placeholder-image.jpg","image"]
 :HL["./04_microcontroller/week4-placeholder-image.jpg","image"]
 :HL["./05_3Ddesign/week5-placeholder-image.jpg","image"]
@@ -15,4 +15,4 @@
 :HL["./09_networking/week9-placeholder-image.jpg","image"]
 :HL["./10_machine/machine-placeholder-image.jpg","image"]
 :HL["./13_finalproject/final-project-placeholder-image.jpg","image"]
-0:{"buildId":"L1KUePb57VVcYgo7x6ukZ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"O1EbPocSW4_GSVGA8PS72","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
