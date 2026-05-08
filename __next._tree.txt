@@ -11,8 +11,8 @@
 :HL["./05_3Ddesign/week5-placeholder-image.jpg","image"]
 :HL["./06_inputs/week6-placeholder-image.jpg","image"]
 :HL["./07_outputs/week7-placeholder-image.jpg","image"]
-:HL["./08_cnc/week8-placeholder-image.jpg","image"]
+:HL["./08_cnc/duck_wax_stamps.jpg","image"]
 :HL["./09_networking/week9-placeholder-image.jpg","image"]
 :HL["./10_machine/machine-placeholder-image.jpg","image"]
 :HL["./13_finalproject/final-project-placeholder-image.jpg","image"]
-0:{"buildId":"Za46_SJ_O28Y040FWwRNw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"XFClGRCf1l-9TTY36MUlj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
