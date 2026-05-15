@@ -55,19 +55,19 @@ nav {
 }
 
 #btn {
-  border: 3px outset #FFFFFF;
+  border: 3px outset #A0D65E;
   border-radius: 40px;
   padding: 10px 30px;
-  background-color: #a3a3a3;
+  background-color: #A0D65E;
   color: #000000;
   transition: 0.3s;
 }
 
 #btn:hover {
-  border: 3px inset #FFFFFF;
+  border: 3px inset #9eba6e;
   border-radius: 40px;
   padding: 10px 30px;
-  background-color: #a3a3a3;
+  background-color: #6E8B3D;
   transition: 0.3s;
 }
 
@@ -90,6 +90,13 @@ nav {
 code {
   background-color: #2d2b33;
   color: #EEE7E8;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Make specific code blocks transparent when requested */
+.clear-code {
+  background-color: transparent !important;
+  color: inherit !important;
   font-family: 'Courier New', Courier, monospace;
 }
 
