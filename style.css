@@ -93,6 +93,13 @@ code {
   font-family: 'Courier New', Courier, monospace;
 }
 
+/* Make specific code blocks transparent when requested */
+.clear-code {
+  background-color: transparent !important;
+  color: inherit !important;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .caption {
   color: gray;
   font-size: 16px;

@@ -2,19 +2,105 @@
 2:I[35060,["/PS70-assignments/_next/static/chunks/18dbe4b72e56d8b4.js","/PS70-assignments/_next/static/chunks/d6f6650e605cc9f4.js"],"default"]
 3:I[39756,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
 4:I[37457,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-5:I[97367,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
-6:"$Sreact.suspense"
-8:I[97367,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
-a:I[97367,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
-c:I[68027,[],"default"]
-:HL["/PS70-assignments/_next/static/chunks/2473c16c0c2f6b5f.css","style"]
-:HL["/PS70-assignments/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/PS70-assignments/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+e:I[68027,[],"default"]
+:HL["/PS70-assignments/_next/static/chunks/a7d5d0791c8c6223.css","style"]
+:HL["/PS70-assignments/_next/static/media/797e433ab948586e-s.p.479bea2b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/PS70-assignments/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css","style"]
 :HL["./style.css","style"]
 :HL["./pixel_duck.png","image"]
-0:{"P":null,"b":"XFClGRCf1l-9TTY36MUlj","c":["","04_microcontroller"],"q":"","i":false,"f":[[["",{"children":["04_microcontroller",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/PS70-assignments/_next/static/chunks/2473c16c0c2f6b5f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/PS70-assignments/_next/static/chunks/18dbe4b72e56d8b4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/PS70-assignments/_next/static/chunks/d6f6650e605cc9f4.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Alice Liu PS70: Intro to Digital Fabrication "}],["$","link",null,{"href":"https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css","rel":"stylesheet"}],["$","link",null,{"href":"./style.css","rel":"stylesheet"}],["$","script",null,{"src":"./strapdown.js"}],["$","script",null,{"src":"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"}]]}],["$","body",null,{"children":[["$","script",null,{"src":"https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js","integrity":"sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI","crossOrigin":"anonymous"}],["$","nav",null,{"className":"navbar navbar-expand-sm navbar-dark","children":["$","div",null,{"style":{"alignItems":"center","justifyContent":"center"},"className":"container-fluid","children":[["$","div",null,{"className":"flexrow","children":["$","a",null,{"className":"navbar-brand","href":"./","children":["$","h2",null,{"className":"nav-title","children":[["$","img",null,{"src":"./pixel_duck.png","alt":"Pixel Duck","width":"40","className":"d-inline-block align-text-top"}],"PS70 Spring 2026"]}]}]}],["$","div",null,{"className":"navbar-nav","children":[["$","h4",null,{"children":["$","$L2",null,{"className":"nav-link","href":"./","children":"Home"}]}],["$","h4",null,{"children":["$","$L2",null,{"className":"nav-link","href":"./about","children":"About"}]}],["$","h4",null,{"children":["$","$L2",null,{"className":"nav-link","href":"./13_finalproject","children":"Final Project"}]}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"className":"textcontainer","children":[["$","p",null,{"className":"margin","children":" "}],["$","h3",null,{"children":"Week 4: Microcontroller Programming"}],["$","h4",null,{"children":"[Do Something with an arduino]"}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
-9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-d:I[27201,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
-7:null
-b:[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/PS70-assignments/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Ld","3",{}]]
+:HL["./04_microcontroller/circuit_image.png","image"]
+:HL["./04_microcontroller/circuit_implemented.jpg","image"]
+0:{"P":null,"b":"DjaBFpGikwCuxQIlK3gMu","c":["","04_microcontroller"],"q":"","i":false,"f":[[["",{"children":["04_microcontroller",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/PS70-assignments/_next/static/chunks/a7d5d0791c8c6223.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/PS70-assignments/_next/static/chunks/18dbe4b72e56d8b4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/PS70-assignments/_next/static/chunks/d6f6650e605cc9f4.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","title",null,{"children":"Alice Liu PS70: Intro to Digital Fabrication "}],["$","link",null,{"href":"https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css","rel":"stylesheet"}],["$","link",null,{"href":"./style.css","rel":"stylesheet"}],["$","script",null,{"src":"./strapdown.js"}],["$","script",null,{"src":"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"}]]}],["$","body",null,{"children":[["$","script",null,{"src":"https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js","integrity":"sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI","crossOrigin":"anonymous"}],["$","nav",null,{"className":"navbar navbar-expand-sm navbar-dark","children":["$","div",null,{"style":{"alignItems":"center","justifyContent":"center"},"className":"container-fluid","children":[["$","div",null,{"className":"flexrow","children":["$","a",null,{"className":"navbar-brand","href":"./","children":["$","h2",null,{"className":"nav-title","children":[["$","img",null,{"src":"./pixel_duck.png","alt":"Pixel Duck","width":"40","className":"d-inline-block align-text-top"}],"PS70 Spring 2026"]}]}]}],["$","div",null,{"className":"navbar-nav","children":[["$","h4",null,{"children":["$","$L2",null,{"className":"nav-link","href":"./","children":"Home"}]}],["$","h4",null,{"children":["$","$L2",null,{"className":"nav-link","href":"./about","children":"About"}]}],["$","h4",null,{"children":["$","$L2",null,{"className":"nav-link","href":"./13_finalproject","children":"Final Project"}]}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"className":"textcontainer","children":[["$","p",null,{"className":"margin","children":" "}],["$","h3",null,{"children":"Week 4: Microcontroller Programming"}],["$","p",null,{"children":"For this week, I decided to continue my kinematic machine and use my Xiao to control the motor and make my ducks play red light, green light. The circuit was pretty simple, consisting of just three leds, a motor driver, and a button to activate the mechanism. Here's a picture of the setup in circuit form, and it in real life:"}],["$","img",null,{"src":"./04_microcontroller/circuit_image.png","alt":"Circuit diagram","style":{"width":"50%"}}],["$","img",null,{"src":"./04_microcontroller/circuit_implemented.jpg","alt":"Real-life setup","style":{"width":"50%"}}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],{},null,false,false]},null,false,false]},null,false,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[97367,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:I[97367,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+15:I[97367,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+5:["$","p",null,{"children":"For coding, I implemented it so that when the button wasn't pushed, the motor would be off and the red led would be on, representing a \"red light\" state of the game. When the button was pushed, the motor would run and the green light would be on, causing the ducks to bob up and down in the \"green light\" state. After the button was released, the yellow light would turn on and the ducks would continue to bob during this intermediate state, only stopping when the red light came back on an we returned to the \"red light\" state. All of the code was implemented without any delay() functions - insted, I used the millis() function to check how much time has passed and if we are still in the waiting period. Here's the code:"}]
+f:T80d,// Pin information
+const int buttonPin = D5;
+int greenPin = D2;
+const int yellowPin = D3;
+const int redPin = D4;
+int buttonTime = -1;
+int yellowOnTime = 3000;
+bool on = false;
+
+// int buttonPin = D0;
+int val;
+
+const int B1A = D1;  // define pin 12 for B-1A (PWM Speed)
+const int B1B = D0;  // define pin 14 for B-1B (direction)
+
+// setting PWM properties
+const int freq = 5000;
+const int resolution = 8;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+
+  pinMode(B1A, OUTPUT);     // specify these pins as outputs
+  pinMode(B1B, OUTPUT);
+  ledcAttach(B1A, freq, resolution);
+  ledcWrite(B1A, 0);   // start with the motors off 
+  digitalWrite(B1B, LOW);
+
+  pinMode(greenPin, OUTPUT);
+  pinMode(yellowPin, OUTPUT);
+  pinMode(redPin, OUTPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
+
+  digitalWrite(greenPin, LOW);
+  digitalWrite(yellowPin, LOW);
+  digitalWrite(redPin, LOW);
+}
+
+void loop() {
+  val = digitalRead(buttonPin);
+  Serial.println(val);
+  // If the button is pressed, turn the green light on and the other lights off
+  if (val == LOW) {
+    digitalWrite(greenPin, HIGH);
+    digitalWrite(yellowPin, LOW);
+    digitalWrite(redPin, LOW);
+    // Turn motor on
+    ledcWrite(B1A, 200);
+    on = true;
+  }
+  // If the button has been let go but we last measured that the device was on, then we turn the yellow pin on and the others off
+  else if (val == HIGH && on) {
+    buttonTime = millis();
+    digitalWrite(greenPin, LOW);
+    digitalWrite(yellowPin, HIGH);
+    digitalWrite(redPin, LOW);
+    on = false;
+  }
+  // If we have let go of the switch and we are still in the waiting period, have the yellow LED stay on
+  else if (val == HIGH && buttonTime != -1 && millis() - buttonTime < yellowOnTime) {
+    digitalWrite(greenPin, LOW);
+    digitalWrite(yellowPin, HIGH);
+    digitalWrite(redPin, LOW);
+  }
+  // Otherwise, we default to red light on and motor off
+  else{
+    digitalWrite(greenPin, LOW);
+    digitalWrite(yellowPin, LOW);
+    digitalWrite(redPin, HIGH);
+    // Turn motor off
+    ledcWrite(B1A, 0); 
+  }
+  
+}
+6:["$","pre",null,{"children":["$","code",null,{"className":"clear-code","children":"$f"}]}]
+7:["$","p",null,{"className":"margin","children":" "}]
+8:["$","a",null,{"href":"./04_microcontroller/duck_red_light_green_light.ino","download":true,"children":"Download Code"}]
+9:["$","p",null,{"className":"margin"}]
+a:["$","p",null,{"children":"And here's a video of the final product working! The yellow LED is a bit faint on camera but everything behaves wonderfully."}]
+b:["$","video",null,{"controls":true,"style":{"width":"50%"},"children":["$","source",null,{"src":"./04_microcontroller/final_sculpture_video.mp4","type":"video/mp4"}]}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+d:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["/PS70-assignments/_next/static/chunks/ff1a16fafef87110.js","/PS70-assignments/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+12:null
+16:[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/PS70-assignments/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","3",{}]]
