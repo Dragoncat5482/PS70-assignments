@@ -9,4 +9,4 @@
 :HL["./06_inputs/capacitive_sensor.jpg","image"]
 :HL["./06_inputs/distance_sensor_calibration.png","image"]
 :HL["./06_inputs/hall_effect_sensor_calibration.png","image"]
-0:{"buildId":"DjaBFpGikwCuxQIlK3gMu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"06_inputs","paramType":null,"paramKey":"06_inputs","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"MeJdp4_b4980b2t8KfBNG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"06_inputs","paramType":null,"paramKey":"06_inputs","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

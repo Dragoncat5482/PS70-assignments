@@ -9,4 +9,4 @@
 :HL["./07_outputs/kinematic_bird_fusion.png","image"]
 :HL["./07_outputs/attiny_circuit.jpg","image"]
 :HL["./07_outputs/mvp_picture.jpg","image"]
-0:{"buildId":"DjaBFpGikwCuxQIlK3gMu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"07_outputs","paramType":null,"paramKey":"07_outputs","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"MeJdp4_b4980b2t8KfBNG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"07_outputs","paramType":null,"paramKey":"07_outputs","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

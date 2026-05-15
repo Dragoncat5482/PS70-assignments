@@ -6,4 +6,4 @@
 :HL["./pixel_duck.png","image"]
 :HL["./04_microcontroller/circuit_image.png","image"]
 :HL["./04_microcontroller/circuit_implemented.jpg","image"]
-0:{"buildId":"DjaBFpGikwCuxQIlK3gMu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"04_microcontroller","paramType":null,"paramKey":"04_microcontroller","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"MeJdp4_b4980b2t8KfBNG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"04_microcontroller","paramType":null,"paramKey":"04_microcontroller","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

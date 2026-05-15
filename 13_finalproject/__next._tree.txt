@@ -22,4 +22,4 @@
 :HL["./13_finalproject/pcb_attach_front.jpg","image"]
 :HL["./13_finalproject/pcb_attach_side.jpg","image"]
 :HL["./13_finalproject/final_project.jpg","image"]
-0:{"buildId":"DjaBFpGikwCuxQIlK3gMu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"13_finalproject","paramType":null,"paramKey":"13_finalproject","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"MeJdp4_b4980b2t8KfBNG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"13_finalproject","paramType":null,"paramKey":"13_finalproject","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

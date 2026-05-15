@@ -11,4 +11,4 @@
 :HL["./08_cnc/wax_stamp_handle_print.jpg","image"]
 :HL["./08_cnc/duck_stamp_bottom.jpg","image"]
 :HL["./08_cnc/duck_wax_stamps.jpg","image"]
-0:{"buildId":"DjaBFpGikwCuxQIlK3gMu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"08_cnc","paramType":null,"paramKey":"08_cnc","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"MeJdp4_b4980b2t8KfBNG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"08_cnc","paramType":null,"paramKey":"08_cnc","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
